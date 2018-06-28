@@ -1,4 +1,9 @@
 #Manual blocked Links
+
+127.0.0.1  localhost
+::1  localhost
+
+#[General]
 127.0.0.1 referrer.disqus.com
 127.0.0.1 c.disquscdn.com
 127.0.0.1 www3376.playercdn.net
