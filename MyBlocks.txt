@@ -1,40 +1,40 @@
 #Manual blocked Links
-referrer.disqus.com
-c.disquscdn.com
-www3376.playercdn.net
-realtime.services.disqus.com
-disqusads.com
-c2.popads.net
-mc.yandex.ru
-c1.popads.net
-a.disquscdn.com
-www2374.playercdn.net
-disqusads.com
-links.services.disqus.com
-syndication.twitter.com
-staticxx.facebook.com
-disqus.com
-x.bidswitch.net
-platform.twitter.com
-b1sync.zemanta.com
-x.bidswitch.net
-us-east-sync.bidswitch.net
-pixel.quantserve.com
-sync.adkernel.com
-g.cwkuki.com
-secure.quantserve.com
-sb.scorecardresearch.com
-cdn.revcontent.com
-whos.amung.us
-connect.facebook.net
-ads.exdynsrv.com
-jsc.mgid.com
-go.oclasrv.com
-st.bebi.com
-s7.addthis.com
-fonts.googleapis.com
-defpush.com
-ads.exdynsrv.com
+127.0.0.1 referrer.disqus.com
+127.0.0.1 c.disquscdn.com
+127.0.0.1 www3376.playercdn.net
+127.0.0.1 realtime.services.disqus.com
+127.0.0.1 disqusads.com
+127.0.0.1 c2.popads.net
+127.0.0.1 mc.yandex.ru
+127.0.0.1 c1.popads.net
+127.0.0.1 a.disquscdn.com
+127.0.0.1 www2374.playercdn.net
+127.0.0.1 disqusads.com
+127.0.0.1 links.services.disqus.com
+127.0.0.1 syndication.twitter.com
+127.0.0.1 staticxx.facebook.com
+127.0.0.1 disqus.com
+127.0.0.1 x.bidswitch.net
+127.0.0.1 platform.twitter.com
+127.0.0.1 b1sync.zemanta.com
+127.0.0.1 x.bidswitch.net
+127.0.0.1 us-east-sync.bidswitch.net
+127.0.0.1 pixel.quantserve.com
+127.0.0.1 sync.adkernel.com
+127.0.0.1 g.cwkuki.com
+127.0.0.1 secure.quantserve.com
+127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 cdn.revcontent.com
+127.0.0.1 whos.amung.us
+127.0.0.1 connect.facebook.net
+127.0.0.1 ads.exdynsrv.com
+127.0.0.1 jsc.mgid.com
+127.0.0.1 go.oclasrv.com
+127.0.0.1 st.bebi.com
+127.0.0.1 s7.addthis.com
+127.0.0.1 fonts.googleapis.com
+127.0.0.1 defpush.com
+127.0.0.1 ads.exdynsrv.com
 
 
 
