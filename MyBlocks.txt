@@ -40,6 +40,7 @@
 127.0.0.1 fonts.googleapis.com
 127.0.0.1 defpush.com
 127.0.0.1 ads.exdynsrv.com
+127.0.0.1 aetv.112.2o7.net
 
 
 
