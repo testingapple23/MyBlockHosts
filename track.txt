@@ -20,6 +20,12 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+
+
+127.0.0.1  localhost
+::1  localhost
+
+#[Web]
 127.0.0.1 intellimize.co
 127.0.0.1 api.intellimize.co
 127.0.0.1 www.api.intellimize.co

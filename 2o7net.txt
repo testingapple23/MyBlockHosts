@@ -1,4 +1,9 @@
+#2o7net
 
+127.0.0.1  localhost
+::1  localhost
+
+#[the links]
 127.0.0.1 102.112.2o7.net
 127.0.0.1 102.122.2o7.net
 127.0.0.1 10xhellometro.112.2o7.net

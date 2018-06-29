@@ -9,6 +9,11 @@
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
 
+
+127.0.0.1  localhost
+::1  localhost 
+
+
 # Podejrzane i/lub strony polaczone z innymi oszustwami
 127.0.0.1 eonline.pl
 127.0.0.1 maendo.tv

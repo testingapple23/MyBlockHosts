@@ -11,6 +11,13 @@
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
 # start date:    Fri, 03 Jul 1998 00:00:00
+
+
+
+
+127.0.0.1  localhost
+::1  localhost
+#Manual blocked Links
 127.0.0.1 101com.com
 127.0.0.1 101order.com
 127.0.0.1 123found.com
