@@ -38,7 +38,14 @@
 127.0.0.1 st.bebi.com
 127.0.0.1 s7.addthis.com
 127.0.0.1 fonts.googleapis.com
-
+127.0.0.1 defpush.com
+127.0.0.1 ads.exdynsrv.com
+127.0.0.1 aetv.112.2o7.net
+127.0.0.1 c1.popads.net
+127.0.0.1 static.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 i.ytimg.com
+127.0.0.1 ssl.gstatic.com
 
 
 

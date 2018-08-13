@@ -2174,7 +2174,6 @@
 /ads-mobileweb-
 /ads-module.
 /ads-module/*
-/ads-mopub?
 /ads-net.
 /ads-new.
 /ads-no-
@@ -27771,7 +27770,6 @@ bristol247.com,zap2it.com#@##ad728
 natgeo.tv#@##ad728x90
 campusdish.com#@##adBanner
 4029tv.com,wesh.com,wmur.com#@##adBelt
-imdb.com#@##adComponentWrapper
 remixshare.com#@##adDiv
 surf.to#@##adFrame
 ginatricot.com#@##adGallery
@@ -30273,7 +30271,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||doubleclick.net/pfadx/video.wsj.com/$third-party
 ||doubleclick.net/pfadx/www.tv3.co.nz$third-party
 ||doubleclick.net/xbbe/creative/vast?
-||doubleclick.net^$third-party,domain=3news.co.nz|92q.com|abc-7.com|addictinggames.com|allbusiness.com|bizjournals.com|bloomberg.com|bnn.ca|boom92houston.com|boom945.com|boomphilly.com|break.com|cbc.ca|cbs19.tv|cbs3springfield.com|cbslocal.com|complex.com|dailymail.co.uk|darkhorizons.com|doubleviking.com|euronews.com|extratv.com|fandango.com|fox19.com|fox5vegas.com|gorillanation.com|hawaiinewsnow.com|hellobeautiful.com|hiphopnc.com|hot1041stl.com|hothiphopdetroit.com|hotspotatl.com|hulu.com|imdb.com|indiatimes.com|indyhiphop.com|ipowerrichmond.com|joblo.com|kcra.com|kctv5.com|ketv.com|koat.com|koco.com|kolotv.com|kpho.com|kptv.com|ksat.com|ksbw.com|ksfy.com|ksl.com|kypost.com|kysdc.com|live5news.com|livestation.com|livestream.com|metro.us|metronews.ca|miamiherald.com|my9nj.com|myboom1029.com|mycolumbuspower.com|nbcrightnow.com|neatorama.com|necn.com|neopets.com|news.com.au|news4jax.com|newsone.com|nintendoeverything.com|oldschoolcincy.com|pagesuite-professional.co.uk|pandora.com|play.it|player.theplatform.com|radio.com|radionowindy.com|rottentomatoes.com|sbsun.com|shacknews.com|sk-gaming.com|ted.com|thebeatdfw.com|theboxhouston.com|theglobeandmail.com|timesnow.tv|tv2.no|ustream.tv|wapt.com|washingtonpost.com|wate.com|wbaltv.com|wcvb.com|wdrb.com|wdsu.com|wflx.com|wfmz.com|wfsb.com|wgal.com|whdh.com|wired.com|wisn.com|wiznation.com|wlky.com|wlns.com|wlwt.com|wmur.com|wnem.com|wowt.com|wral.com|wsj.com|wsmv.com|wsvn.com|wtae.com|wthr.com|wxii12.com|wyff4.com|yahoo.com|zhiphopcleveland.com
+||doubleclick.net^$third-party,domain=3news.co.nz|92q.com|abc-7.com|addictinggames.com|allbusiness.com|bizjournals.com|bloomberg.com|bnn.ca|boom92houston.com|boom945.com|boomphilly.com|break.com|cbc.ca|cbs19.tv|cbs3springfield.com|cbslocal.com|complex.com|dailymail.co.uk|darkhorizons.com|doubleviking.com|euronews.com|extratv.com|fandango.com|fox19.com|fox5vegas.com|gorillanation.com|hawaiinewsnow.com|hellobeautiful.com|hiphopnc.com|hot1041stl.com|hothiphopdetroit.com|hotspotatl.com|hulu.com|indiatimes.com|indyhiphop.com|ipowerrichmond.com|joblo.com|kcra.com|kctv5.com|ketv.com|koat.com|koco.com|kolotv.com|kpho.com|kptv.com|ksat.com|ksbw.com|ksfy.com|ksl.com|kypost.com|kysdc.com|live5news.com|livestation.com|livestream.com|metro.us|metronews.ca|miamiherald.com|my9nj.com|myboom1029.com|mycolumbuspower.com|nbcrightnow.com|neatorama.com|necn.com|neopets.com|news.com.au|news4jax.com|newsone.com|nintendoeverything.com|oldschoolcincy.com|pagesuite-professional.co.uk|pandora.com|play.it|player.theplatform.com|radio.com|radionowindy.com|rottentomatoes.com|sbsun.com|shacknews.com|sk-gaming.com|ted.com|thebeatdfw.com|theboxhouston.com|theglobeandmail.com|timesnow.tv|tv2.no|ustream.tv|wapt.com|washingtonpost.com|wate.com|wbaltv.com|wcvb.com|wdrb.com|wdsu.com|wflx.com|wfmz.com|wfsb.com|wgal.com|whdh.com|wired.com|wisn.com|wiznation.com|wlky.com|wlns.com|wlwt.com|wmur.com|wnem.com|wowt.com|wral.com|wsj.com|wsmv.com|wsvn.com|wtae.com|wthr.com|wxii12.com|wyff4.com|yahoo.com|zhiphopcleveland.com
 ||doubleclick.net^*/ad/$~object-subrequest,third-party
 ||doubleclick.net^*/adi/$~object-subrequest,third-party
 ||doubleclick.net^*/adj/$~object-subrequest,third-party
@@ -40374,7 +40372,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||vunwzlxfsogj.com^$third-party
 ||vuoywsri.bid^$third-party
 ||vuwdqproq.com^$third-party
-||vuysooqimdbt.com^$third-party
 ||vvcnnvcruobhr.bid^$third-party
 ||vvgttgprssiy.com^$third-party
 ||vvnfgohclkf.bid^$third-party
@@ -48546,7 +48543,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||imagetoupload.com/images/87633952425570896161.jpg
 ||imagevenue.com/interstitial.
 ||imcdb.org/res/cth_
-||imdb.com/images/*/scriptloader.$subdocument
 ||imfdb.org^*/FoG-300x250.jpg
 ||img.tfd.com/wn/$image,domain=freethesaurus.com
 ||imgah.com/traffic$subdocument
@@ -49025,12 +49021,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||mechodownload.com/forum/images/affiliates/
 ||medhelp.org/hserver/
 ||media-delivery.armorgames.com^
-||media-imdb.com/images/*/imdbads/js/collections/ads-tarnhelm-$domain=imdb.com
-||media-imdb.com/images/*/imdbads/js/collections/ads-video-$domain=imdb.com
-||media-imdb.com/images/*/mptv_banner_
-||media-imdb.com^*/affiliates/
-||media-imdb.com^*/clicktale-$script
-||media-imdb.com^*/zergnet-
 ||media-mgmt.armorgames.com^
 ||media-system.maltatoday.com.mt^
 ||media.abc.go.com^*/callouts/
@@ -50144,7 +50134,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||squadedit.com/img/peanuts/
 ||srv.thespacereporter.com^
 ||ssl-images-amazon.com/images/*/browser-scripts/da-
-||ssl-images-amazon.com/images/*/shazam/$domain=imdb.com
 ||ssl-images-amazon.com^*/ape/sf/*/DAsf-$script
 ||ssl-images-amazon.com^*/ape/sf/*/msf-$subdocument
 ||ssl-images-amazon.com^*/dacx/
@@ -51475,7 +51464,6 @@ $script,stylesheet,subdocument,third-party,websocket,xmlhttprequest,domain=estre
 |http://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com
 |https://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com
 ! yify.bz
-@@||p.media-imdb.com^$script,domain=yify.bz
 |http://$script,third-party,xmlhttprequest,domain=yify.bz
 |https://$script,third-party,xmlhttprequest,domain=yify.bz
 ! yifytorrent.co
@@ -54358,7 +54346,6 @@ alluc.ee###altdl2
 alternet.org###altsocial_splash
 sportsgrid.com,thejanedough.com###am-ngg-ss-unit-label
 3dtin.com,juicefm.com,ovguide.com,pulse1.co.uk,pulse2.co.uk,signal1.co.uk,signal2.co.uk,swanseasound.co.uk,thewave.co.uk,wave965.com,wbgo.org,wbur.org,wirefm.com,wishfm.net###amazon
-imdb.com###amazon-affiliates
 itworld.com###amazon-bottom-widget
 systemrequirementslab.com###amazon-skin-links
 pri.org###amazonBox180
@@ -54861,7 +54848,6 @@ opensubtitles.org###bt-dwl
 indiaresults.com###bt_banner1
 canoe.ca###btePartena
 sporcle.com###btf-300x600
-imdb.com###btf_rhs2_wrapper
 ecoustics.com###btf_right_300x250
 gamepedia.com###btfheroContainer
 gamepedia.com###btfhero_container
@@ -56635,8 +56621,6 @@ nowtorrents.com###results_show_2
 cnet.com###reviewsPanel
 msn.co.nz###rhc_find
 ninemsn.com.au###rhc_mrec
-imdb.com###rhs-sl
-imdb.com###rhs_cornerstone_wrapper
 pcworld.idg.com.au###rhs_resource_promo
 10minutemail.net,eel.surf7.net.my,macdailynews.com,ocia.net###right
 ninemsn.com.au###right > .bdr > #ysm
@@ -57281,7 +57265,6 @@ fileinfo.com,slangit.com###tlbspace
 timeoutabudhabi.com,timeoutbahrain.com,timeoutdoha.com,timeoutdubai.com###tleaderb
 thelifefiles.com###tlfAdInBetween300x250
 mb.com.ph###tm-toolbar
-imdb.com###tn15adrhs
 technewsworld.com###tnavad
 technutty.co.uk###tnmm-header
 omgubuntu.co.uk###to-top
@@ -57370,9 +57353,7 @@ archerywire.com###top_message
 ninemsn.com.au###top_promo_ie8
 smosh.com###top_promo_wrapper
 electricenergyonline.com,fotolog.com###top_pub
-mma-core.com###top_r_bans
-imdb.com###top_rhs_1_wrapper
-imdb.com###top_rhs_wrapper
+mma-core.com###top_r_bansr
 getlyrics.com###top_right
 escapistmagazine.com###top_site_part
 humanevents.com###top_skyscraperbox
@@ -57900,7 +57881,6 @@ androidauthority.com##.aa_button_wrapper
 androidauthority.com##.aa_desktop
 androidauthority.com##.aa_intcont_300x250
 pcgamesn.com##.ab_mp
-imdb.com##.ab_zergnet
 mmorpg.com##.abiabnotice
 four11.com##.abig
 merriam-webster.com##.abl
@@ -58116,12 +58096,11 @@ pcworld.com##.am-btn
 styleite.com##.am-ngg-right-ad
 colorhexa.com##.amain
 thedodo.com##.amazing-animal-widget
-air1.com,aol.co.uk,imdb.com,msn.com,music-news.com,nintendolife.com,nprstations.org,reviewed.com,squidoo.com,three.fm##.amazon
+air1.com,aol.co.uk,msn.com,music-news.com,nintendolife.com,nprstations.org,reviewed.com,squidoo.com,three.fm##.amazon
 gadgetsnow.com##.amazon-box
 ringostrack.com##.amazon-buy
 makeuseof.com##.amazon-callout
 lewrockwell.com##.amazon-element-wrapper-custom
-imdb.com##.amazon-instant-video
 blogcritics.org##.amazon-item
 gadgetsnow.com##.amazon-list
 expertreviews.co.uk##.amazon-product--container
@@ -58477,7 +58456,7 @@ caller.com,commercialappeal.com,courierpress.com,gosanangelo.com,govolsxtra.com,
 exclaim.ca##.bigboxhome
 tri247.com##.biglink
 wctk.com##.bigpromo
-about.com,afcbournemouthnews.com,burnleyfcnews.com,chelseanews.com,crystalpalacenews.com,edmunds.com,evertonnews.com,goonernews.com,hammersheadlines.com,huddersfieldtownnews.com,imdb.com,jurassicworld2movie.com,leicestercitynews.org,mancitynews.com,manunews.com,motherjones.com,newcastleunitednews.org,pep.ph,saintsnews.com,seagullsnews.com,sport360.fit,spursnews.com,stokecitynews.com,swanseacitynews.com,todaysbigthing.com,walkon.com,watfordfcnews.com,wccftech.com,westbromnews.com##.billboard
+about.com,afcbournemouthnews.com,burnleyfcnews.com,chelseanews.com,crystalpalacenews.com,edmunds.com,evertonnews.com,goonernews.com,hammersheadlines.com,huddersfieldtownnews.com,jurassicworld2movie.com,leicestercitynews.org,mancitynews.com,manunews.com,motherjones.com,newcastleunitednews.org,pep.ph,saintsnews.com,seagullsnews.com,sport360.fit,spursnews.com,stokecitynews.com,swanseacitynews.com,todaysbigthing.com,walkon.com,watfordfcnews.com,wccftech.com,westbromnews.com##.billboard
 bre.ad##.billboard-body
 elitedaily.com##.billboard-wrapper
 dailymail.co.uk,thisismoney.co.uk##.billboard_wrapper
@@ -59203,7 +59182,6 @@ ganol.movie##.fake_player
 9to5google.com,9to5mac.com,9to5toys.com,electrek.co##.fallback-unit
 competitor.com##.fancybox-overlay
 commentarymagazine.com##.fancybox-wrap
-themoviedb.org##.fanhattan
 might.net##.fat-container
 smarter.com##.favboxmiddlesearch
 smarter.com##.favwrapper
@@ -60113,7 +60091,6 @@ ocweekly.com##.middle
 scanwith.com##.middle-banner
 tradetrucks.com.au##.middle-banner-list
 ibtimes.co.in,ibtimes.co.uk##.middle-leaderboard
-imdb.com##.middle-rhs
 instantshift.com##.middle_banners_title
 kcrw.com##.middle_bottom_wrap
 lifezette.com##.midpoint
@@ -61737,7 +61714,6 @@ citationmachine.net##.wantage
 torrentdownloads.me##.warez
 torrents.me##.warning-top
 radiotimes.com##.watch-action-button
-imdb.com##.watch-bar
 filmlinks4u.is##.watch-dl-img
 youtube.com##.watch-extra-info-column
 youtube.com##.watch-extra-info-right
@@ -62074,7 +62050,6 @@ solarmovie.ac##a[href*="http://www.solarmovie.ac/playmovie?"]
 deadline.com##a[href*="javascript:"]
 horriblesubs.info##a[href*="jlist.com"]
 scotch.io##a[href*="leanpub.com"] img
-imdb.com##a[href*="page-action=offsite-amazon"]
 scotch.io##a[href*="synd.co"] img
 thefreethoughtproject.com##a[href*="voluumtrk.com"]
 unitconversion.org##a[href="../noads.html"]
@@ -62216,7 +62191,6 @@ airliners.net##a[href^="/rad_results.main?"]
 torrentv.org##a[href^="/rec/"]
 1337x.unblocked.mx##a[href^="/redirectgames.php"]
 1337x.unblocked.mx##a[href^="/redirmusic.php"]
-imdb.com##a[href^="/rg/action-box-title/buy-at-amazon/"]
 limetorrenturls.com##a[href^="/smegaload.php"]
 1337x.to##a[href^="/stream/"]
 1337x.unblocked.mx##a[href^="/streamredirect.php"]
@@ -66164,7 +66138,6 @@ pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width
 @@||doubleclick.net/adj/cm.tim/*;cmpos=$script,domain=time.com
 @@||doubleclick.net/adj/ctv.muchmusicblog.com/$script
 @@||doubleclick.net/adj/gamesco.socialgaming/$script,domain=ghsrv.com
-@@||doubleclick.net/adj/imdb2.consumer.video/*;sz=320x240,$script
 @@||doubleclick.net/adj/kval/health;pos=gallerytop;sz=$script,domain=kval.com
 @@||doubleclick.net/adj/nbcu.nbc/videoplayer-$script
 @@||doubleclick.net/adj/oiq.man.$script,domain=manualsonline.com
@@ -66684,7 +66657,6 @@ pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width
 @@||maxim.com/advert*/countdown/$script,stylesheet
 @@||mcfc.co.uk/js/core/adtracking.js
 @@||mcpn.us/resources/images/adv/$~third-party
-@@||media-imdb.com^*/js/ads.js$domain=imdb.com
 @@||media.avclub.com/onion/js/videoads.js$script
 @@||media.cargocollective.com^$image
 @@||media.expedia.com/*/ads/
@@ -69248,7 +69220,6 @@ pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width
 @@||ias.rakuten.co.jp^$domain=rakuten.co.jp
 @@||il.timetoknow.com/lms/*/js/advertisement.js
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dibujos.net|ensonhaber.com|f5haber.com|marieclaire.fr|r7.com|radio-canada.ca|uol.com.br
-@@||imdb.com^$popup,domain=0123movies.com
 @@||impact-ad.jp/combo?$subdocument,domain=jalan.net
 @@||imstore.bet365affiliates.com/?AffiliateCode=$image,domain=betyper.com
 @@||imstore.bet365affiliates.com/AffiliateCreativeBanners/$image,domain=betyper.com
@@ -69618,8 +69589,6 @@ www.google.com#@##videoads
 @@||images.itreviews.com/*300x250_$domain=itreviews.com
 @@||images.outbrain.com/imageserver/*-120x60.$image
 @@||imawow.weather.com/web/wow/$image
-@@||imdb.com/images/*doubleclick/*300x250
-@@||imdb.com/images/*doubleclick/*320x240
 @@||imperialwonderservices.ie/images/banner/*-468x60.$~third-party
 @@||komikslandia.pl/environment/cache/images/300_250_
 @@||la-finca-distribution.de/wp-content/uploads/*-120x240.$image
